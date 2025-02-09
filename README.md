@@ -1,7 +1,7 @@
 # Suits
-# Arkthemist Project
 
-Arkthemist is an innovative platform offering Arbitration as a Service (AaaS). It resolves disputes outside the courtroom by combining AI-driven decisions with blockchain transparency. Our mission is to make arbitration efficient, fair, and secure for everyone.
+
+Suits is an innovative platform offering Arbitration as a Service (AaaS). It resolves disputes outside the courtroom by combining AI-driven decisions with blockchain transparency. Our mission is to make arbitration efficient, fair, and secure for everyone.
 
 ## Key Features
 
