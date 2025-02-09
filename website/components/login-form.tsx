@@ -68,7 +68,7 @@ export function LoginForm({
                     id="email"
                     type="email"
                     placeholder="m@example.com"
-                    defaultValue="arkthemist@legal.tech"
+                    defaultValue="Suits@legal.tech"
                     required
                   />
                 </div>
@@ -85,7 +85,7 @@ export function LoginForm({
                   <Input 
                     id="password" 
                     type="password" 
-                    defaultValue="arkthemist"
+                    defaultValue="Suits"
                     required 
                   />
                 </div>

@@ -9,12 +9,12 @@ export default function LoginPage() {
         <a href="#" className="flex items-center gap-2 self-center font-medium">
           <Image
             src="/favicon.ico"
-            alt="Arkthemist"
+            alt="Suits"
             width={24}
             height={24}
             className="rounded-full"
           />
-          Arkthemist
+          Suits
         </a>
         <LoginForm />
       </div>
